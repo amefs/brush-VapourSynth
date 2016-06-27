@@ -7,3 +7,7 @@ Please see [Building Instructions](https://github.com/syntaxhighlighter/syntaxhi
 
 ## About VapourSynth
 Detail information in [VapourSynth Doc](http://www.vapoursynth.com/doc/)
+
+## Known issues
+Because the VapourSynth have so many Functions and third part scripts, so the .js file is very big, and when rendering the Webview, it will take more time than
+most of the official scripts.

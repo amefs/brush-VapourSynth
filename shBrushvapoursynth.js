@@ -1,34 +1,21 @@
-/**
+/*
 
- * SyntaxHighlighter
+	Third part brush for SyntaxHighlighter
 
- * http://alexgorbatchev.com/SyntaxHighlighter
+	Language:Vapoursynth
 
- *
+	Usage
+		[code lang="vs"][/code]
+		[code lang="vapoursynth"][/code]
 
- * SyntaxHighlighter is donationware. If you are using it, please donate.
+	This Script including most of the functions used in vapoursynth. Not only insluding the function support by official，
+	but also contain those popular scripts and tools like mvsfunc ffms2 L-Smash etc.
 
- * http://alexgorbatchev.com/SyntaxHighlighter/donate.html
+	For Further information please visit http://www.vapoursynth.com/doc/
 
- *
+	27.06.2016
 
- * @version
-
- * 3.0.83 (Wed, 16 Apr 2014 03:56:09 GMT)
-
- *
-
- * @copyright
-
- * Copyright (C) 2004-2013 Alex Gorbatchev.
-
- *
-
- * @license
-
- * Dual licensed under the MIT and GPL licenses.
-
- */
+*/
 
 ;(function()
 
