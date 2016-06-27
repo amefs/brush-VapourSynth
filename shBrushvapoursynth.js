@@ -108,10 +108,10 @@
 
 				{ regex: /\b\d+\.?\w*/g, 									css: 'value' },
 
-				{ regex: new RegExp(this.getKeywords(funcs), 'gmi'),		css: 'constants' },
+				{ regex: new RegExp(this.getKeywords(funcs), 'gmi'),		css: 'constants bold' },
 				{ regex: new RegExp(this.getKeywords(constants), 'gmi'),	css: 'color3' },
 				{ regex: new RegExp(this.getKeywords(keywords), 'gm'), 		css: 'keyword' },
-				{ regex: new RegExp(this.getKeywords(special), 'gm'), 		css: 'string' }
+				{ regex: new RegExp(this.getKeywords(special), 'gm'), 		css: 'string bold' }
 
 				];
 
